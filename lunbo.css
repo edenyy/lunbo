@@ -1,0 +1,21 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.slide{
+    display:flex;
+    transition: transform 1s;
+}
+.wrap{
+    display:flex;
+    width:350px;
+    overflow: hidden;
+}
+img{
+    width:350px;
+    height:200px;
+}
+.button{
+    position:relative;
+    left:150px;
+}
